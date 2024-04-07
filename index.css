@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+#butGetJoke{
+    background-color: rgb(147, 202, 64);
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 60px;
+    margin: 20px;
+}
+
+#out{
+    margin: 20px;
+}
